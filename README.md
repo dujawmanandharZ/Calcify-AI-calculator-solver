@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<H1>Calcify Ai Math Calculator</H1>
 Calcify Ai Math Calculator
 A new Flutter project.
 
