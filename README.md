@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-# test_app
-
+Calcify Ai Math Calculator
 A new Flutter project.
 
 ## Getting Started
