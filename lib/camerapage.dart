@@ -87,7 +87,7 @@ class _CameraPageState extends State<CameraPage> {
       final base64Image = base64Encode(bytes);
 
       // ⚠️ Note: In production, use flutter_dotenv to secure your API Key
-      const String apiKey = "AIzaSyBv-isaK9qXdmyuHOPBSbT4c-DhZrsu6sA";
+      const String apiKey = "*********************************";
       final url = Uri.parse(
         "https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=$apiKey",
       );
